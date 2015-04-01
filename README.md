@@ -1,5 +1,5 @@
 # CsharpCourse2015b
 
-bla bla bla 
+First Check in 01.04.2015
 
 CsharpCourse2015b
